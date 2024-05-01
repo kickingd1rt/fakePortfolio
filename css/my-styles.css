@@ -30,7 +30,7 @@
         }
 
         /* CONTACT PAGE */
-        
+
         #fcf-form {
             display:block;
         }
@@ -101,21 +101,6 @@
             margin-bottom: 0.5rem;
         }
         
-        .fcf-credit {
-            padding-top: 10px;
-            font-size: 0.9rem;
-            color: #545b62;
-        }
-        
-        .fcf-credit a {
-            color: #545b62;
-            text-decoration: underline;
-        }
-        
-        .fcf-credit a:hover {
-            color: #0056b3;
-            text-decoration: underline;
-        }
         
         .fcf-btn {
             display: inline-block;
